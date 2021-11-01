@@ -1,0 +1,5 @@
+#include "proddm_common_wirecell_g4_uboone.fcl"
+
+source.maxEvents:   50
+source.firstRun:11
+source.firstRun:1
